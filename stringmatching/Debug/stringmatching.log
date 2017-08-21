@@ -1,0 +1,5 @@
+﻿  Requirement1.cpp
+c:\adsfinalproject5\stringmatching\ahochorsick.h(49): warning C4018: '<': signed/unsigned mismatch
+c:\adsfinalproject5\stringmatching\ahochorsick.h(164): warning C4018: '<': signed/unsigned mismatch
+  stringmatching.vcxproj -> C:\Adsfinalproject5\Debug\stringmatching.exe
+  stringmatching.vcxproj -> C:\Adsfinalproject5\Debug\stringmatching.pdb (Full PDB)

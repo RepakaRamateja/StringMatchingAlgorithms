@@ -1,0 +1,5 @@
+﻿  Requirement1.cpp
+  windowsstopwatch.cpp
+windowsstopwatch.cpp(24): warning C4244: 'return': conversion from '__int64' to 'long', possible loss of data
+MSVCRT.lib(exe_main.obj) : error LNK2001: unresolved external symbol _main
+C:\Adsfinalproject5\Release\stringmatching.exe : fatal error LNK1120: 1 unresolved externals
