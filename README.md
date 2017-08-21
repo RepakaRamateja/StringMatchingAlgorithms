@@ -1,4 +1,7 @@
-# Part 1: Comparing the Runtimes
+
+
+ Part 1: Comparing the Runtimes
+
 For this part of the project you are required to implement the following string matching algorithms and compare their running time with different inputs.
 1. The Knuth-Morris-Pratt Algorithm
 2. The Boyer-Moore algorithm
